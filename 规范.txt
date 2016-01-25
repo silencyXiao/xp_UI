@@ -1,0 +1,35 @@
+一、命名规范
+项目文件统一  "_"下划线
+html、css类名统一  "-"中划线
+js样式统一驼峰命名
+
+二、文件结构
+
+按资源划分
+
+
+根目录
+1、公共资源文件（建议可以把公共资源做成一个绝对地址）
+static
+static/style
+static/style/reset.css
+static/lib/ 第三方脚本库
+static/images
+
+2、UI组件
+component/
+component/header
+component/footer
+component/table
+component/list
+component/slide
+
+3、template
+
+	
+
+
+
+
+
+
